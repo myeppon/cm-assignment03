@@ -1,0 +1,94 @@
+*,
+*:before,
+*:after {
+  margin: 0px;
+  margin-top: 0px;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 1366px;
+  max-height: auto;
+}
+
+body {
+  background-image: url("../code/img/assignment3-bg.jpg");
+  background-repeat: no-repeat;
+  background-position: top-left;
+}
+
+.container {
+margin: 0 auto;
+}
+
+#column01 {
+    float: left ;
+    width: 50% ;
+  }
+
+#column0102 {
+    float: left ;
+    width: 100% ;
+  }
+
+#column02 {
+    float: right;
+    margin-right: 80px;
+    padding-left: 10px ;
+    padding-bottom: 40px ;
+    width: 50%;
+  }
+
+h1 {
+  font-family: 'Poppins';
+  font-weight: bold;
+  font-size: 4em;
+  color: #334466;
+  margin-left: 120px;
+  margin-top: 200px;
+} 
+
+p {
+  font-family: 'Poppins';
+  font-weight: regular;
+  font-size: 1em;
+  color: black;
+  margin: 120px;
+  margin-top: 30px;
+} 
+
+ul {
+  font-family: 'Poppins';
+  font-weight: regular;
+  font-size: 1em;
+  color: black;
+  margin: 120px;
+  margin-top: 30px;
+  margin-left: 140px;
+} 
+
+h2 {
+  font-family: 'Poppins';
+  font-weight: bold;
+  font-size: 2.5em;
+  color: #334466;
+  margin-left: 120px;
+  margin-top: 50px;
+}
+
+ol {
+  font-family: 'Poppins';
+  font-weight: regular;
+  font-size: 1em;
+  color: black;
+  margin: 120px;
+  margin-top: 30px;
+  margin-left: 130px;
+} 
+
+footer {
+  font-family: 'Poppins';
+  font-weight: regular;
+  font-size: 1em;
+  color: black;
+  margin: 120px;
+  margin-top: 30px;
+} 
